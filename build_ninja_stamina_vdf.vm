@@ -1,0 +1,11 @@
+[BEGINVDF]
+Comment=
+BaseDir=C:\steamGames\steamapps\common\Gothic II\Ninja
+VDFName=C:\steamGames\steamapps\common\Gothic II\Data\Ninja_Stamina.vdf
+[FILES]
+*.* -r
+[EXCLUDE]
+.git -r
+*.vm -r
+[INCLUDE]
+[ENDVDF]
