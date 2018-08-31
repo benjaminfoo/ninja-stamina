@@ -3,7 +3,8 @@ Stamina Ninja patch for Gothic 2 by benjaminfoo, based on the manaregenaration p
 # Usage
 Press the 'V'-Key to enable sprinting, release the key to stop - simple as it.
 
-In order to change the sprint-key, you just have to change it in the file ninja-stamina/NINJA/CONTENT/NINJA_STAMINA/_INTERN/NINJA_STAMINA_REGENERATION.D
+In order to change the sprint-key, you just have to change it in the file => 
+ninja-stamina/NINJA/CONTENT/NINJA_STAMINA/_INTERN/NINJA_STAMINA_REGENERATION.D
 
 # See 
 Ninja Patch Framework by mudfreak
