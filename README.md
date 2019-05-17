@@ -1,4 +1,4 @@
-Stamina Ninja patch for Gothic 2 by benjaminfoo, based on the manaregenaration patch by johnnyboyy.
+# Ninja patch for Gothic 2
 
 **DISCLAIMER:** This project is **just a proof of concept!** - I wrote this simple patch to explore the current state of the modding-facilities of gothic 2 - I'm really not interested in adding something else to this, as the engine is terribly old and not really (reliably) useable on modern systems without additional work.
 
